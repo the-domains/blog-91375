@@ -1,0 +1,54 @@
+layout_spectrum: 0.2663440554226647
+typography_spectrum: 0.740360311564556
+color:
+  brandStrength: 0.4791915820208885
+  lightness: 0.4578871509378389
+  saturation: 0.6997364442409154
+  rhythmicContrast: 0.1449687749498736
+  brandColors:
+    - '#F4F2EE'
+    - '#FAF8F2'
+    - '#FDFCF9'
+    - '#EFECE9'
+    - '#FFFFFF'
+coverPrefs:
+  filter: false
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: blog
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18844a42-4c34-49cc-8956-6728ab8ad6b3.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/18844a42-4c34-49cc-8956-6728ab8ad6b3.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://thegrid.ai/blog'
+title: the blog
+description: available 24/7.. or whilst thoughts last..
+analytics:
+  google: UA-100545624-1
+github: true
