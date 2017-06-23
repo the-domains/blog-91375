@@ -53,3 +53,6 @@ analytics:
   google: UA-100545624-1
 github: true
 purpose: []
+author:
+  name: adec
+  email: adrian@bbiab.com
