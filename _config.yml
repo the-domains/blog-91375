@@ -52,7 +52,4 @@ description: available 24/7.. or whilst thoughts last..
 analytics:
   google: UA-100545624-1
 github: true
-purpose:
-  - type: contact
-    url: 'mailto:adrian@bbiab.com'
-    label: hi
+purpose: []
