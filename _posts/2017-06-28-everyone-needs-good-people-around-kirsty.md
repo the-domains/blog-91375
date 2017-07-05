@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: everyone needs good people around - Kirsty
-dateModified: '2017-07-05T21:52:15.052Z'
-datePublished: '2017-07-05T21:52:15.653Z'
+dateModified: '2017-07-05T21:59:51.987Z'
+datePublished: '2017-07-05T21:59:52.218Z'
 title: 6.29.17
 author: []
 publisher: {}
