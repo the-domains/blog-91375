@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ah remember when…. sorry Angelique .. it’s just a test ..
-dateModified: '2019-01-19T20:58:03.102Z'
-datePublished: '2019-01-19T20:58:03.700Z'
+description: ah remember when…. sorry Angelique .. it’s just a test post..
+dateModified: '2019-01-22T13:43:49.665Z'
+datePublished: '2019-01-22T13:43:50.858Z'
 title: ''
 author: []
 publisher: {}
@@ -15,4 +15,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc25becd-edbf-4d95-9f13-623b1343feee.jpg)
 
-ah remember when.... sorry Angelique .. it's just a test ..
+ah remember when.... sorry Angelique .. it's just a test post..
